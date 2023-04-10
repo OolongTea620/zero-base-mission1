@@ -1,0 +1,6 @@
+# get-wifi list
+GET http://openapi.seoul.go.kr:8088/4656565145726c613535566a456679/json/TbPublicWifiInfo/1/5/양천구
+
+HTTP/1.1 200
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
